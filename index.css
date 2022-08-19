@@ -93,3 +93,9 @@ button {
   font-weight: 700;
   color: white;
 }
+button:hover {
+  box-shadow: 0 0 0px 1px darkcyan;
+}
+button:active {
+  box-shadow: 0 0 0px 2px rgb(1, 170, 170);
+}
